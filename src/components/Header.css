@@ -10,9 +10,3 @@
   height: 54px;
   border-bottom: #dbdbdb 1px solid;
 }
-
-.navigation-ui {
-  display: flex;
-  flex-flow: row, nowrap;
-  justify-content: space-between;
-}
